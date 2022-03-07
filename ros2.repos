@@ -267,10 +267,10 @@ repositories:
     type: git
     url: https://github.com/ros2/python_cmake_module.git
     version: master
-  ros2/rcl:
+  akash-roboticist/rcl:
     type: git
-    url: https://github.com/ros2/rcl.git
-    version: master
+    url: https://github.com/akash-roboticist/rcl.git
+    version: akash/rolling/adaptive-qos
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
@@ -279,10 +279,10 @@ repositories:
     type: git
     url: https://github.com/ros2/rcl_logging.git
     version: master
-  ros2/rclcpp:
+  akash-roboticist/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: master
+    url: https://github.com/akash-roboticist/rclcpp.git
+    version: akash/rolling/adaptive-qos
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
