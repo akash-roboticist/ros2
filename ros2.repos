@@ -270,7 +270,7 @@ repositories:
   akash-roboticist/rcl:
     type: git
     url: https://github.com/akash-roboticist/rcl.git
-    version: master
+    version: akash/rolling/adaptive-qos
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
@@ -282,7 +282,7 @@ repositories:
   akash-roboticist/rclcpp:
     type: git
     url: https://github.com/akash-roboticist/rclcpp.git
-    version: master
+    version: akash/rolling/adaptive-qos
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
